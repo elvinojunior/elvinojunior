@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning about Machine Learning with Bangkit Academy<br>🤝 I’m looking for opportunities that help me to grow<br>💬 This portfolio contains the projects I worked on dicoding<br>⚡Let's build something great together!
+🌱 I’m currently learning about Machine Learning <br>🤝 I’m looking for opportunities that help me to grow<br>💬 This portfolio contains the projects I worked on dicoding<br>⚡Let's build something great together!
 
 
 ## 🌐 Socials:
